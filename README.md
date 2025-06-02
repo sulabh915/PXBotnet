@@ -30,13 +30,15 @@ Python 3.6+
 
 Install dependencies:
 ```bash
-pip install colorama pexpect scapy
+git clone https://github.com/sulabh915/PXBotnet.git
+cd PXBotnet
+./install.sh
+
 ```
 ## Usage
 
 ```javascript
-python3 ssh_commander.py
-
+python3 pxbotnet.py
 ```
 Menu Options:
 
